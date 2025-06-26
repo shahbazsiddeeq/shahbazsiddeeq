@@ -1,4 +1,4 @@
-# Shahbaz Siddeeq – PhD Student | AI Researcher 🤖📚
+# Shahbaz Siddeeq – Dotoral Researcher | Software Engineer 🤖📚
 
 Welcome to my space on GitHub! I'm **Shahbaz Siddeeq**, a PhD student at **Tampere University** and a researcher at **GPT-Lab**, working at the intersection of **Large Language Models (LLMs)**, **software quality**, and **automated refactoring for functional programming**.
 
