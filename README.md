@@ -45,7 +45,7 @@ Welcome to my space on GitHub! I'm **Shahbaz Siddeeq**, a PhD student at **Tampe
 
 ## 🧭 How to Reach Me
 
-- 🌐 Website: [gpt-lab.eu](https://gpt-lab.eu/rushmore_teams/shahbaz-siddeeq-phd-student/)
+- 🌐 Website: [shahbazsiddeeq.com](https://shahbazsiddeeq.com)) | [gpt-lab.eu](https://gpt-lab.eu/rushmore_teams/shahbaz-siddeeq-phd-student/) 
 - 📫 Email: [shahbaz.siddeeq@tuni.fi](mailto:shahbaz.siddeeq@tuni.fi)
 - 🔗 LinkedIn: [linkedin.com/in/shahbazsiddeeq](https://linkedin.com/in/shahbazsiddeeq)
 - 🐦 Twitter: [@ShahbazSiddeeq](https://twitter.com/ShahbazSiddeeq)
