@@ -1,6 +1,6 @@
-# Shahbaz Siddeeq – Dotoral Researcher | Software Engineer 🤖📚
+# Shahbaz Siddeeq – Doctoral Researcher | Software Engineer 🤖📚
 
-Welcome to my space on GitHub! I'm **Shahbaz Siddeeq**, a PhD student at **Tampere University** and a researcher at **GPT-Lab**, working at the intersection of **Large Language Models (LLMs)**, **software quality**, and **automated refactoring for functional programming**.
+Welcome to my space on GitHub! I'm **Shahbaz Siddeeq**, a PhD student at **Tampere University** and a researcher at **GPT-Lab**, working at the intersection of **Large Language Models (LLMs)**, **software quality**, and **automated refactoring for functional programming**, **sVibe Coding**, **AI Agnets**.
 
 ![screenshot](https://media.licdn.com/dms/image/v2/D4D22AQHHALPskPuqPQ/feedshare-shrink_2048_1536/B4DZeERyfqGYAs-/0/1750270950202?e=1753920000&v=beta&t=fD7sLqyv9D0FslmxVh_Yfh-btrAbW3jqoE2x2VyF_wM)
 
@@ -8,7 +8,7 @@ Welcome to my space on GitHub! I'm **Shahbaz Siddeeq**, a PhD student at **Tampe
 
 - 🎓 PhD Student @ [Tampere University](https://www.tuni.fi/)
 - 🧪 Researcher @ [GPT-Lab](https://gpt-lab.eu)
-- 🛠️ Focus: LLM-based software refactoring, functional programming, SQA
+- 🛠️ Focus: LLM-based software refactoring, functional programming, Code Quality, Vibe Coding
 - ✍️ Published 3+ papers in **AI**, **ML**, and **Software Engineering**
 - 🌍 Passionate about **multi-agent systems**, **code transformation**, and **LLM fine-tuning**
 
