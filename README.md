@@ -2,7 +2,7 @@
 
 Welcome to my space on GitHub! I'm **Shahbaz Siddeeq**, a PhD student at **Tampere University** and a researcher at **GPT-Lab**, working at the intersection of **Large Language Models (LLMs)**, **software quality**, and **automated refactoring for functional programming**.
 
-![screenshot](https://gpt-lab.eu/wp-content/uploads/2023/09/shahbaz.jpeg)
+![screenshot](https://media.licdn.com/dms/image/v2/D4D22AQHHALPskPuqPQ/feedshare-shrink_2048_1536/B4DZeERyfqGYAs-/0/1750270950202?e=1753920000&v=beta&t=fD7sLqyv9D0FslmxVh_Yfh-btrAbW3jqoE2x2VyF_wM)
 
 ## 🔍 About Me
 
